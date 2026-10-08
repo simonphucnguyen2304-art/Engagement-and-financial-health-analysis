@@ -1,0 +1,1000 @@
+consumer_id,ml_cluster,segment_label,observed_months,history_status,assignment_status
+KH00100010,Cluster_1,Financially Healthy but Disengaged,12,Full History,Model-based
+KH00100045,Cluster_2,Financially Healthy but Disengaged,12,Full History,Model-based
+KH00100050,Cluster_3,Financially Stretched but Highly Engaged,12,Full History,Model-based
+KH00100085,Cluster_1,Financially Healthy & Highly Engaged,12,Full History,Model-based
+KH00100125,Cluster_1,Financially Stretched but Highly Engaged,12,Full History,Model-based
+KH00100130,Cluster_2,Financially Healthy & Highly Engaged,12,Full History,Model-based
+KH00100170,Cluster_0,Financially Healthy but Disengaged,12,Full History,Model-based
+KH00100210,Cluster_2,Financially Healthy & Highly Engaged,12,Full History,Model-based
+KH00100245,Cluster_0,Financially Healthy but Disengaged,12,Full History,Model-based
+KH00100250,Cluster_2,Financially Healthy but Disengaged,12,Full History,Model-based
+KH00100285,Cluster_2,Financially Healthy but Disengaged,12,Full History,Model-based
+KH00100290,Cluster_3,Low Engagement & Financially Vulnerable,12,Full History,Model-based
+KH00100325,Cluster_1,Financially Healthy & Highly Engaged,12,Full History,Model-based
+KH00100330,Cluster_1,Financially Healthy & Highly Engaged,12,Full History,Model-based
+KH00100370,Cluster_3,Low Engagement & Financially Vulnerable,12,Full History,Model-based
+KH00100405,Cluster_1,Emerging Digital Customers,12,Full History,Model-based
+KH00100410,Cluster_2,Financially Healthy & Highly Engaged,12,Full History,Model-based
+KH00100445,Cluster_3,Financially Stretched but Highly Engaged,12,Full History,Model-based
+KH00100450,Cluster_1,Financially Stretched but Highly Engaged,12,Full History,Model-based
+KH00100485,Cluster_2,Financially Healthy & Highly Engaged,12,Full History,Model-based
+KH00100490,Cluster_0,Emerging Digital Customers,12,Full History,Model-based
+KH00100525,Cluster_2,Financially Healthy but Disengaged,12,Full History,Model-based
+KH00100530,Cluster_2,Financially Healthy but Disengaged,12,Full History,Model-based
+KH00100565,Cluster_2,Financially Healthy but Disengaged,12,Full History,Model-based
+KH00100570,Cluster_3,Financially Stretched but Highly Engaged,12,Full History,Model-based
+KH00100605,Cluster_0,Financially Healthy but Disengaged,12,Full History,Model-based
+KH00100610,Cluster_1,Financially Stretched but Highly Engaged,12,Full History,Model-based
+KH00100645,Cluster_0,Financially Healthy but Disengaged,12,Full History,Model-based
+KH00100690,Cluster_2,Financially Healthy & Highly Engaged,12,Full History,Model-based
+KH00100725,Cluster_0,Emerging Digital Customers,12,Full History,Model-based
+KH00100730,Cluster_2,Financially Healthy but Disengaged,12,Full History,Model-based
+KH00100765,Cluster_3,Low Engagement & Financially Vulnerable,12,Full History,Model-based
+KH00100770,Cluster_0,Low Engagement & Financially Vulnerable,12,Full History,Model-based
+KH00100805,Cluster_2,Financially Healthy but Disengaged,12,Full History,Model-based
+KH00100810,Cluster_0,Financially Healthy but Disengaged,12,Full History,Model-based
+KH00100845,Cluster_2,Essential-Spend-Focused Customers,12,Full History,Model-based
+KH00100850,Cluster_2,Financially Healthy but Disengaged,12,Full History,Model-based
+KH00100885,Cluster_2,Financially Healthy & Highly Engaged,12,Full History,Model-based
+KH00100890,Cluster_0,Financially Healthy but Disengaged,12,Full History,Model-based
+KH00100925,Cluster_3,Financially Stretched but Highly Engaged,12,Full History,Model-based
+KH00100930,Cluster_3,Financially Stretched but Highly Engaged,12,Full History,Model-based
+KH00100965,Cluster_2,Financially Healthy & Highly Engaged,12,Full History,Model-based
+KH00100970,Cluster_1,Financially Healthy but Disengaged,12,Full History,Model-based
+KH00101005,Cluster_1,Low Engagement & Financially Vulnerable,12,Full History,Model-based
+KH00101010,Cluster_3,Financially Stretched but Highly Engaged,12,Full History,Model-based
+KH00101045,Cluster_1,Financially Stretched but Highly Engaged,12,Full History,Model-based
+KH00101050,Cluster_2,Financially Healthy but Disengaged,12,Full History,Model-based
+KH00101085,Cluster_2,Financially Healthy but Disengaged,12,Full History,Model-based
+KH00101090,Cluster_3,Financially Stretched but Highly Engaged,12,Full History,Model-based
+KH00101125,Cluster_1,Financially Healthy but Disengaged,12,Full History,Model-based
+KH00101130,Cluster_2,Financially Healthy & Highly Engaged,12,Full History,Model-based
+KH00101165,Cluster_2,Financially Healthy & Highly Engaged,12,Full History,Model-based
+KH00101170,Cluster_2,Financially Stretched but Highly Engaged,12,Full History,Model-based
+KH00101205,Cluster_2,Financially Healthy & Highly Engaged,12,Full History,Model-based
+KH00101210,Cluster_1,Financially Stretched but Highly Engaged,12,Full History,Model-based
+KH00101245,Cluster_2,Financially Healthy & Highly Engaged,12,Full History,Model-based
+KH00101250,Cluster_2,Financially Healthy but Disengaged,12,Full History,Model-based
+KH00101285,Cluster_0,Essential-Spend-Focused Customers,12,Full History,Model-based
+KH00101290,Cluster_1,Financially Healthy but Disengaged,12,Full History,Model-based
+KH00101325,Cluster_2,Financially Stretched but Highly Engaged,12,Full History,Model-based
+KH00101330,Cluster_1,Financially Healthy & Highly Engaged,12,Full History,Model-based
+KH00101365,Cluster_3,Financially Stretched but Highly Engaged,12,Full History,Model-based
+KH00101370,Cluster_0,Low Engagement & Financially Vulnerable,12,Full History,Model-based
+KH00101405,Cluster_2,Financially Healthy & Highly Engaged,12,Full History,Model-based
+KH00101410,Cluster_2,Financially Healthy & Highly Engaged,12,Full History,Model-based
+KH00101445,Cluster_0,Essential-Spend-Focused Customers,12,Full History,Model-based
+KH00101450,Cluster_0,Financially Healthy but Disengaged,12,Full History,Model-based
+KH00101485,Cluster_3,Low Engagement & Financially Vulnerable,12,Full History,Model-based
+KH00101490,Cluster_1,Financially Healthy & Highly Engaged,12,Full History,Model-based
+KH00101525,Cluster_0,Financially Healthy but Disengaged,12,Full History,Model-based
+KH00101530,Cluster_0,Low Engagement & Financially Vulnerable,12,Full History,Model-based
+KH00101565,Cluster_2,Financially Healthy but Disengaged,12,Full History,Model-based
+KH00101570,Cluster_0,Low Engagement & Financially Vulnerable,12,Full History,Model-based
+KH00101605,Cluster_3,Financially Stretched but Highly Engaged,12,Full History,Model-based
+KH00101645,Cluster_1,Financially Stretched but Highly Engaged,12,Full History,Model-based
+KH00101650,Cluster_2,Financially Healthy but Disengaged,12,Full History,Model-based
+KH00101685,Cluster_2,Essential-Spend-Focused Customers,12,Full History,Model-based
+KH00101690,Cluster_1,Financially Stretched but Highly Engaged,12,Full History,Model-based
+KH00101725,Cluster_1,Financially Healthy & Highly Engaged,12,Full History,Model-based
+KH00101730,Cluster_2,Financially Healthy & Highly Engaged,12,Full History,Model-based
+KH00101765,Cluster_3,Low Engagement & Financially Vulnerable,12,Full History,Model-based
+KH00101770,Cluster_0,Low Engagement & Financially Vulnerable,12,Full History,Model-based
+KH00101805,Cluster_2,Financially Healthy & Highly Engaged,12,Full History,Model-based
+KH00101810,Cluster_3,Financially Stretched but Highly Engaged,12,Full History,Model-based
+KH00101845,Cluster_0,Emerging Digital Customers,12,Full History,Model-based
+KH00101850,Cluster_3,Financially Stretched but Highly Engaged,12,Full History,Model-based
+KH00101885,Cluster_1,Emerging Digital Customers,12,Full History,Model-based
+KH00101890,Cluster_0,Low Engagement & Financially Vulnerable,12,Full History,Model-based
+KH00101925,Cluster_3,Financially Stretched but Highly Engaged,12,Full History,Model-based
+KH00101930,Cluster_0,Low Engagement & Financially Vulnerable,12,Full History,Model-based
+KH00101965,Cluster_3,Low Engagement & Financially Vulnerable,12,Full History,Model-based
+KH00101970,Cluster_3,Low Engagement & Financially Vulnerable,12,Full History,Model-based
+KH00102010,Cluster_0,Low Engagement & Financially Vulnerable,12,Full History,Model-based
+KH00102045,Cluster_1,Financially Stretched but Highly Engaged,12,Full History,Model-based
+KH00102050,Cluster_2,Financially Healthy & Highly Engaged,12,Full History,Model-based
+KH00102090,Cluster_3,Financially Stretched but Highly Engaged,12,Full History,Model-based
+KH00102125,Cluster_2,Financially Healthy & Highly Engaged,12,Full History,Model-based
+KH00102130,Cluster_3,Low Engagement & Financially Vulnerable,12,Full History,Model-based
+KH00102165,Cluster_0,Low Engagement & Financially Vulnerable,12,Full History,Model-based
+KH00102170,Cluster_3,Financially Stretched but Highly Engaged,12,Full History,Model-based
+KH00102205,Cluster_2,Financially Healthy & Highly Engaged,12,Full History,Model-based
+KH00102210,Cluster_0,Low Engagement & Financially Vulnerable,12,Full History,Model-based
+KH00102245,Cluster_2,Financially Healthy & Highly Engaged,12,Full History,Model-based
+KH00102250,Cluster_2,Financially Healthy & Highly Engaged,12,Full History,Model-based
+KH00102285,Cluster_0,Low Engagement & Financially Vulnerable,12,Full History,Model-based
+KH00102290,Cluster_1,Financially Stretched but Highly Engaged,12,Full History,Model-based
+KH00102325,Cluster_2,Low Engagement & Financially Vulnerable,12,Full History,Model-based
+KH00102330,Cluster_2,Financially Healthy but Disengaged,12,Full History,Model-based
+KH00102365,Cluster_0,Emerging Digital Customers,12,Full History,Model-based
+KH00102370,Cluster_2,Financially Healthy but Disengaged,12,Full History,Model-based
+KH00102405,Cluster_1,Financially Stretched but Highly Engaged,12,Full History,Model-based
+KH00102410,Cluster_1,Financially Healthy & Highly Engaged,12,Full History,Model-based
+KH00102445,Cluster_1,Financially Stretched but Highly Engaged,12,Full History,Model-based
+KH00102450,Cluster_2,Financially Healthy but Disengaged,12,Full History,Model-based
+KH00102485,Cluster_1,Emerging Digital Customers,12,Full History,Model-based
+KH00102525,Cluster_2,Financially Healthy but Disengaged,12,Full History,Model-based
+KH00102530,Cluster_1,Financially Healthy & Highly Engaged,12,Full History,Model-based
+KH00102565,Cluster_2,Financially Healthy & Highly Engaged,12,Full History,Model-based
+KH00102570,Cluster_1,Financially Healthy & Highly Engaged,12,Full History,Model-based
+KH00102605,Cluster_2,Financially Healthy but Disengaged,12,Full History,Model-based
+KH00102610,Cluster_1,Emerging Digital Customers,12,Full History,Model-based
+KH00102645,Cluster_1,Financially Healthy & Highly Engaged,12,Full History,Model-based
+KH00102650,Cluster_3,Financially Stretched but Highly Engaged,12,Full History,Model-based
+KH00102685,Cluster_1,Financially Healthy & Highly Engaged,12,Full History,Model-based
+KH00102690,Cluster_1,Low Engagement & Financially Vulnerable,12,Full History,Model-based
+KH00102725,Cluster_2,Financially Healthy but Disengaged,12,Full History,Model-based
+KH00102730,Cluster_3,Financially Stretched but Highly Engaged,12,Full History,Model-based
+KH00102765,Cluster_1,Financially Healthy & Highly Engaged,12,Full History,Model-based
+KH00102770,Cluster_2,Financially Healthy & Highly Engaged,12,Full History,Model-based
+KH00102805,Cluster_1,Financially Healthy & Highly Engaged,12,Full History,Model-based
+KH00102810,Cluster_1,Financially Stretched but Highly Engaged,12,Full History,Model-based
+KH00102845,Cluster_2,Financially Healthy & Highly Engaged,12,Full History,Model-based
+KH00102850,Cluster_1,Financially Stretched but Highly Engaged,12,Full History,Model-based
+KH00102885,Cluster_1,Financially Healthy & Highly Engaged,12,Full History,Model-based
+KH00102890,Cluster_2,Financially Healthy but Disengaged,12,Full History,Model-based
+KH00102925,Cluster_3,Emerging Digital Customers,12,Full History,Model-based
+KH00102930,Cluster_3,Financially Stretched but Highly Engaged,12,Full History,Model-based
+KH00102965,Cluster_3,Financially Stretched but Highly Engaged,12,Full History,Model-based
+KH00102970,Cluster_2,Financially Healthy & Highly Engaged,12,Full History,Model-based
+KH00103005,Cluster_0,Low Engagement & Financially Vulnerable,12,Full History,Model-based
+KH00103010,Cluster_1,Financially Healthy & Highly Engaged,12,Full History,Model-based
+KH00103045,Cluster_1,Financially Stretched but Highly Engaged,12,Full History,Model-based
+KH00103050,Cluster_1,Financially Healthy & Highly Engaged,12,Full History,Model-based
+KH00103085,Cluster_3,Financially Stretched but Highly Engaged,12,Full History,Model-based
+KH00103090,Cluster_3,Financially Stretched but Highly Engaged,12,Full History,Model-based
+KH00103125,Cluster_3,Financially Stretched but Highly Engaged,12,Full History,Model-based
+KH00103130,Cluster_2,Financially Healthy & Highly Engaged,12,Full History,Model-based
+KH00103165,Cluster_0,Low Engagement & Financially Vulnerable,12,Full History,Model-based
+KH00103170,Cluster_2,Financially Healthy but Disengaged,12,Full History,Model-based
+KH00103205,Cluster_2,Financially Healthy & Highly Engaged,12,Full History,Model-based
+KH00103210,Cluster_2,Financially Healthy but Disengaged,12,Full History,Model-based
+KH00103245,Cluster_3,Financially Stretched but Highly Engaged,12,Full History,Model-based
+KH00103250,Cluster_1,Financially Stretched but Highly Engaged,12,Full History,Model-based
+KH00103285,Cluster_2,Financially Healthy but Disengaged,12,Full History,Model-based
+KH00103290,Cluster_2,Essential-Spend-Focused Customers,12,Full History,Model-based
+KH00103325,Cluster_3,Low Engagement & Financially Vulnerable,12,Full History,Model-based
+KH00103330,Cluster_2,Essential-Spend-Focused Customers,12,Full History,Model-based
+KH00103365,Cluster_0,Low Engagement & Financially Vulnerable,12,Full History,Model-based
+KH00103370,Cluster_0,Low Engagement & Financially Vulnerable,12,Full History,Model-based
+KH00103405,Cluster_3,Financially Stretched but Highly Engaged,12,Full History,Model-based
+KH00103410,Cluster_3,Low Engagement & Financially Vulnerable,12,Full History,Model-based
+KH00103445,Cluster_0,Financially Healthy but Disengaged,12,Full History,Model-based
+KH00103450,Cluster_2,Financially Healthy but Disengaged,12,Full History,Model-based
+KH00103485,Cluster_3,Financially Stretched but Highly Engaged,12,Full History,Model-based
+KH00103490,Cluster_3,Financially Stretched but Highly Engaged,12,Full History,Model-based
+KH00103525,Cluster_3,Low Engagement & Financially Vulnerable,12,Full History,Model-based
+KH00103530,Cluster_3,Financially Stretched but Highly Engaged,12,Full History,Model-based
+KH00103565,Cluster_1,Financially Healthy & Highly Engaged,12,Full History,Model-based
+KH00103570,Cluster_0,Low Engagement & Financially Vulnerable,12,Full History,Model-based
+KH00103605,Cluster_3,Financially Stretched but Highly Engaged,12,Full History,Model-based
+KH00103610,Cluster_0,Essential-Spend-Focused Customers,12,Full History,Model-based
+KH00103645,Cluster_2,Essential-Spend-Focused Customers,12,Full History,Model-based
+KH00103650,Cluster_0,Low Engagement & Financially Vulnerable,12,Full History,Model-based
+KH00103690,Cluster_2,Financially Stretched but Highly Engaged,12,Full History,Model-based
+KH00103725,Cluster_0,Financially Healthy but Disengaged,12,Full History,Model-based
+KH00103730,Cluster_0,Financially Healthy but Disengaged,12,Full History,Model-based
+KH00103765,Cluster_2,Financially Stretched but Highly Engaged,12,Full History,Model-based
+KH00103770,Cluster_0,Low Engagement & Financially Vulnerable,12,Full History,Model-based
+KH00103805,Cluster_2,Financially Healthy but Disengaged,12,Full History,Model-based
+KH00103810,Cluster_1,Financially Stretched but Highly Engaged,12,Full History,Model-based
+KH00103845,Cluster_3,Financially Stretched but Highly Engaged,12,Full History,Model-based
+KH00103850,Cluster_2,Financially Healthy & Highly Engaged,12,Full History,Model-based
+KH00103885,Cluster_0,Financially Healthy but Disengaged,12,Full History,Model-based
+KH00103890,Cluster_0,Financially Healthy but Disengaged,12,Full History,Model-based
+KH00103925,Cluster_2,Financially Healthy but Disengaged,12,Full History,Model-based
+KH00103970,Cluster_1,Financially Healthy & Highly Engaged,12,Full History,Model-based
+KH00104005,Cluster_2,Financially Healthy & Highly Engaged,12,Full History,Model-based
+KH00104010,Cluster_2,Financially Healthy but Disengaged,12,Full History,Model-based
+KH00104045,Cluster_0,Low Engagement & Financially Vulnerable,12,Full History,Model-based
+KH00104050,Cluster_3,Financially Stretched but Highly Engaged,12,Full History,Model-based
+KH00104085,Cluster_1,Emerging Digital Customers,12,Full History,Model-based
+KH00104090,Cluster_1,Financially Stretched but Highly Engaged,12,Full History,Model-based
+KH00104125,Cluster_1,Financially Healthy & Highly Engaged,12,Full History,Model-based
+KH00104130,Cluster_0,Low Engagement & Financially Vulnerable,12,Full History,Model-based
+KH00104165,Cluster_2,Financially Stretched but Highly Engaged,12,Full History,Model-based
+KH00104170,Cluster_2,Financially Healthy but Disengaged,12,Full History,Model-based
+KH00104205,Cluster_3,Financially Stretched but Highly Engaged,12,Full History,Model-based
+KH00104210,Cluster_2,Financially Healthy & Highly Engaged,12,Full History,Model-based
+KH00104245,Cluster_3,Financially Stretched but Highly Engaged,12,Full History,Model-based
+KH00104250,Cluster_2,Financially Healthy but Disengaged,12,Full History,Model-based
+KH00104285,Cluster_3,Low Engagement & Financially Vulnerable,12,Full History,Model-based
+KH00104290,Cluster_1,Financially Healthy & Highly Engaged,12,Full History,Model-based
+KH00104325,Cluster_0,Low Engagement & Financially Vulnerable,12,Full History,Model-based
+KH00104365,Cluster_2,Financially Healthy & Highly Engaged,12,Full History,Model-based
+KH00104370,Cluster_2,Financially Healthy & Highly Engaged,12,Full History,Model-based
+KH00104405,Cluster_3,Financially Stretched but Highly Engaged,12,Full History,Model-based
+KH00104410,Cluster_0,Financially Healthy but Disengaged,12,Full History,Model-based
+KH00104445,Cluster_0,Financially Healthy but Disengaged,12,Full History,Model-based
+KH00104450,Cluster_1,Financially Healthy & Highly Engaged,12,Full History,Model-based
+KH00104485,Cluster_1,Low Engagement & Financially Vulnerable,12,Full History,Model-based
+KH00104525,Cluster_0,Low Engagement & Financially Vulnerable,12,Full History,Model-based
+KH00104530,Cluster_0,Financially Healthy but Disengaged,12,Full History,Model-based
+KH00104565,Cluster_2,Financially Healthy but Disengaged,12,Full History,Model-based
+KH00104570,Cluster_2,Essential-Spend-Focused Customers,12,Full History,Model-based
+KH00104605,Cluster_1,Financially Healthy & Highly Engaged,12,Full History,Model-based
+KH00104645,Cluster_3,Emerging Digital Customers,12,Full History,Model-based
+KH00104650,Cluster_1,Financially Healthy & Highly Engaged,12,Full History,Model-based
+KH00104690,Cluster_0,Financially Healthy but Disengaged,12,Full History,Model-based
+KH00104725,Cluster_3,Financially Stretched but Highly Engaged,12,Full History,Model-based
+KH00104730,Cluster_2,Financially Stretched but Highly Engaged,12,Full History,Model-based
+KH00104765,Cluster_3,Financially Stretched but Highly Engaged,12,Full History,Model-based
+KH00104770,Cluster_2,Financially Healthy but Disengaged,12,Full History,Model-based
+KH00104805,Cluster_2,Financially Healthy & Highly Engaged,12,Full History,Model-based
+KH00104810,Cluster_1,Low Engagement & Financially Vulnerable,12,Full History,Model-based
+KH00104845,Cluster_2,Financially Healthy but Disengaged,12,Full History,Model-based
+KH00104850,Cluster_2,Financially Healthy & Highly Engaged,12,Full History,Model-based
+KH00104885,Cluster_2,Financially Healthy but Disengaged,12,Full History,Model-based
+KH00104890,Cluster_0,Financially Healthy but Disengaged,12,Full History,Model-based
+KH00104925,Cluster_3,Financially Stretched but Highly Engaged,12,Full History,Model-based
+KH00104930,Cluster_2,Financially Healthy & Highly Engaged,12,Full History,Model-based
+KH00104965,Cluster_0,Emerging Digital Customers,12,Full History,Model-based
+KH00104970,Cluster_2,Financially Healthy but Disengaged,12,Full History,Model-based
+KH00105005,Cluster_2,Financially Healthy & Highly Engaged,12,Full History,Model-based
+KH00105010,Cluster_2,Financially Healthy & Highly Engaged,12,Full History,Model-based
+KH00105045,Cluster_2,Low Engagement & Financially Vulnerable,12,Full History,Model-based
+KH00105050,Cluster_3,Financially Stretched but Highly Engaged,12,Full History,Model-based
+KH00105085,Cluster_2,Essential-Spend-Focused Customers,12,Full History,Model-based
+KH00105090,Cluster_1,Financially Healthy & Highly Engaged,12,Full History,Model-based
+KH00105125,Cluster_2,Financially Healthy & Highly Engaged,12,Full History,Model-based
+KH00105130,Cluster_2,Financially Healthy & Highly Engaged,12,Full History,Model-based
+KH00105165,Cluster_3,Financially Stretched but Highly Engaged,12,Full History,Model-based
+KH00105170,Cluster_2,Financially Healthy & Highly Engaged,12,Full History,Model-based
+KH00105205,Cluster_1,Financially Stretched but Highly Engaged,12,Full History,Model-based
+KH00105245,Cluster_1,Financially Healthy & Highly Engaged,12,Full History,Model-based
+KH00105250,Cluster_1,Low Engagement & Financially Vulnerable,12,Full History,Model-based
+KH00105285,Cluster_2,Essential-Spend-Focused Customers,12,Full History,Model-based
+KH00105290,Cluster_2,Financially Stretched but Highly Engaged,12,Full History,Model-based
+KH00105330,Cluster_1,Financially Stretched but Highly Engaged,12,Full History,Model-based
+KH00105365,Cluster_3,Financially Stretched but Highly Engaged,12,Full History,Model-based
+KH00105370,Cluster_1,Low Engagement & Financially Vulnerable,12,Full History,Model-based
+KH00105405,Cluster_3,Financially Stretched but Highly Engaged,12,Full History,Model-based
+KH00105410,Cluster_0,Financially Healthy but Disengaged,12,Full History,Model-based
+KH00105445,Cluster_3,Low Engagement & Financially Vulnerable,12,Full History,Model-based
+KH00105485,Cluster_3,Low Engagement & Financially Vulnerable,12,Full History,Model-based
+KH00105490,Cluster_1,Financially Healthy & Highly Engaged,12,Full History,Model-based
+KH00105525,Cluster_3,Low Engagement & Financially Vulnerable,12,Full History,Model-based
+KH00105530,Cluster_2,Essential-Spend-Focused Customers,12,Full History,Model-based
+KH00105570,Cluster_0,Financially Healthy but Disengaged,12,Full History,Model-based
+KH00105605,Cluster_1,Financially Healthy & Highly Engaged,12,Full History,Model-based
+KH00105610,Cluster_3,Low Engagement & Financially Vulnerable,12,Full History,Model-based
+KH00105645,Cluster_2,Financially Stretched but Highly Engaged,12,Full History,Model-based
+KH00105650,Cluster_3,Low Engagement & Financially Vulnerable,12,Full History,Model-based
+KH00105685,Cluster_2,Financially Healthy & Highly Engaged,12,Full History,Model-based
+KH00105690,Cluster_3,Low Engagement & Financially Vulnerable,12,Full History,Model-based
+KH00105725,Cluster_0,Financially Healthy but Disengaged,12,Full History,Model-based
+KH00105730,Cluster_1,Financially Healthy & Highly Engaged,12,Full History,Model-based
+KH00105765,Cluster_3,Financially Stretched but Highly Engaged,12,Full History,Model-based
+KH00105805,Cluster_1,Low Engagement & Financially Vulnerable,12,Full History,Model-based
+KH00105810,Cluster_0,Low Engagement & Financially Vulnerable,12,Full History,Model-based
+KH00105845,Cluster_0,Low Engagement & Financially Vulnerable,12,Full History,Model-based
+KH00105850,Cluster_0,Emerging Digital Customers,12,Full History,Model-based
+KH00105885,Cluster_2,Essential-Spend-Focused Customers,12,Full History,Model-based
+KH00105890,Cluster_0,Financially Healthy but Disengaged,12,Full History,Model-based
+KH00105925,Cluster_2,Financially Healthy & Highly Engaged,12,Full History,Model-based
+KH00105930,Cluster_1,Low Engagement & Financially Vulnerable,12,Full History,Model-based
+KH00105970,Cluster_0,Financially Healthy but Disengaged,12,Full History,Model-based
+KH00106005,Cluster_1,Financially Healthy & Highly Engaged,12,Full History,Model-based
+KH00106010,Cluster_2,Financially Healthy but Disengaged,12,Full History,Model-based
+KH00106045,Cluster_0,Essential-Spend-Focused Customers,12,Full History,Model-based
+KH00106050,Cluster_0,Financially Healthy but Disengaged,12,Full History,Model-based
+KH00106090,Cluster_1,Financially Stretched but Highly Engaged,12,Full History,Model-based
+KH00106125,Cluster_3,Financially Stretched but Highly Engaged,12,Full History,Model-based
+KH00106165,Cluster_0,Financially Healthy but Disengaged,12,Full History,Model-based
+KH00106170,Cluster_2,Financially Stretched but Highly Engaged,12,Full History,Model-based
+KH00106245,Cluster_2,Financially Healthy & Highly Engaged,12,Full History,Model-based
+KH00106250,Cluster_2,Financially Healthy but Disengaged,12,Full History,Model-based
+KH00106290,Cluster_3,Financially Stretched but Highly Engaged,12,Full History,Model-based
+KH00106325,Cluster_2,Financially Healthy & Highly Engaged,12,Full History,Model-based
+KH00106365,Cluster_3,Financially Stretched but Highly Engaged,12,Full History,Model-based
+KH00106405,Cluster_0,Financially Healthy but Disengaged,12,Full History,Model-based
+KH00106410,Cluster_1,Financially Healthy & Highly Engaged,12,Full History,Model-based
+KH00106445,Cluster_0,Essential-Spend-Focused Customers,12,Full History,Model-based
+KH00106450,Cluster_2,Low Engagement & Financially Vulnerable,12,Full History,Model-based
+KH00106485,Cluster_3,Financially Stretched but Highly Engaged,12,Full History,Model-based
+KH00106525,Cluster_0,Low Engagement & Financially Vulnerable,12,Full History,Model-based
+KH00106530,Cluster_3,Low Engagement & Financially Vulnerable,12,Full History,Model-based
+KH00106565,Cluster_2,Financially Healthy & Highly Engaged,12,Full History,Model-based
+KH00106570,Cluster_1,Emerging Digital Customers,12,Full History,Model-based
+KH00106605,Cluster_2,Financially Healthy & Highly Engaged,12,Full History,Model-based
+KH00106610,Cluster_2,Financially Healthy but Disengaged,12,Full History,Model-based
+KH00106645,Cluster_1,Financially Healthy but Disengaged,12,Full History,Model-based
+KH00106650,Cluster_1,Financially Healthy & Highly Engaged,12,Full History,Model-based
+KH00106685,Cluster_1,Financially Healthy but Disengaged,12,Full History,Model-based
+KH00106690,Cluster_0,Financially Healthy but Disengaged,12,Full History,Model-based
+KH00106725,Cluster_3,Financially Stretched but Highly Engaged,12,Full History,Model-based
+KH00106730,Cluster_0,Financially Healthy but Disengaged,12,Full History,Model-based
+KH00106765,Cluster_3,Financially Stretched but Highly Engaged,12,Full History,Model-based
+KH00106770,Cluster_3,Financially Stretched but Highly Engaged,12,Full History,Model-based
+KH00106805,Cluster_2,Financially Stretched but Highly Engaged,12,Full History,Model-based
+KH00106810,Cluster_3,Low Engagement & Financially Vulnerable,12,Full History,Model-based
+KH00106845,Cluster_3,Financially Stretched but Highly Engaged,12,Full History,Model-based
+KH00106850,Cluster_3,Emerging Digital Customers,12,Full History,Model-based
+KH00106885,Cluster_2,Financially Healthy but Disengaged,12,Full History,Model-based
+KH00106925,Cluster_3,Financially Healthy & Highly Engaged,12,Full History,Model-based
+KH00106930,Cluster_2,Essential-Spend-Focused Customers,12,Full History,Model-based
+KH00106965,Cluster_3,Financially Stretched but Highly Engaged,12,Full History,Model-based
+KH00106970,Cluster_2,Financially Healthy but Disengaged,12,Full History,Model-based
+KH00107005,Cluster_0,Financially Healthy but Disengaged,12,Full History,Model-based
+KH00107010,Cluster_2,Financially Healthy but Disengaged,12,Full History,Model-based
+KH00107045,Cluster_0,Low Engagement & Financially Vulnerable,12,Full History,Model-based
+KH00107050,Cluster_0,Emerging Digital Customers,12,Full History,Model-based
+KH00107085,Cluster_3,Financially Stretched but Highly Engaged,12,Full History,Model-based
+KH00107090,Cluster_0,Low Engagement & Financially Vulnerable,12,Full History,Model-based
+KH00107125,Cluster_1,Low Engagement & Financially Vulnerable,12,Full History,Model-based
+KH00107130,Cluster_2,Financially Healthy but Disengaged,12,Full History,Model-based
+KH00107165,Cluster_2,Financially Healthy & Highly Engaged,12,Full History,Model-based
+KH00107170,Cluster_3,Financially Stretched but Highly Engaged,12,Full History,Model-based
+KH00107205,Cluster_2,Financially Healthy & Highly Engaged,12,Full History,Model-based
+KH00107210,Cluster_1,Financially Healthy but Disengaged,12,Full History,Model-based
+KH00107245,Cluster_0,Financially Healthy but Disengaged,12,Full History,Model-based
+KH00107250,Cluster_3,Financially Stretched but Highly Engaged,12,Full History,Model-based
+KH00107285,Cluster_0,Low Engagement & Financially Vulnerable,12,Full History,Model-based
+KH00107290,Cluster_2,Financially Healthy & Highly Engaged,12,Full History,Model-based
+KH00107325,Cluster_2,Financially Healthy & Highly Engaged,12,Full History,Model-based
+KH00107330,Cluster_3,Financially Stretched but Highly Engaged,12,Full History,Model-based
+KH00107365,Cluster_0,Essential-Spend-Focused Customers,12,Full History,Model-based
+KH00107405,Cluster_0,Financially Healthy but Disengaged,12,Full History,Model-based
+KH00107410,Cluster_1,Financially Stretched but Highly Engaged,12,Full History,Model-based
+KH00107445,Cluster_0,Essential-Spend-Focused Customers,12,Full History,Model-based
+KH00107450,Cluster_1,Financially Healthy & Highly Engaged,12,Full History,Model-based
+KH00107485,Cluster_0,Financially Healthy but Disengaged,12,Full History,Model-based
+KH00107490,Cluster_0,Essential-Spend-Focused Customers,12,Full History,Model-based
+KH00107525,Cluster_2,Low Engagement & Financially Vulnerable,12,Full History,Model-based
+KH00107530,Cluster_1,Financially Healthy but Disengaged,12,Full History,Model-based
+KH00107565,Cluster_0,Low Engagement & Financially Vulnerable,12,Full History,Model-based
+KH00107570,Cluster_0,Financially Healthy but Disengaged,12,Full History,Model-based
+KH00107605,Cluster_3,Financially Stretched but Highly Engaged,12,Full History,Model-based
+KH00107610,Cluster_0,Emerging Digital Customers,12,Full History,Model-based
+KH00107645,Cluster_0,Essential-Spend-Focused Customers,12,Full History,Model-based
+KH00107650,Cluster_1,Financially Healthy & Highly Engaged,12,Full History,Model-based
+KH00107685,Cluster_3,Financially Stretched but Highly Engaged,12,Full History,Model-based
+KH00107690,Cluster_3,Low Engagement & Financially Vulnerable,12,Full History,Model-based
+KH00107725,Cluster_3,Financially Stretched but Highly Engaged,12,Full History,Model-based
+KH00107730,Cluster_2,Financially Healthy & Highly Engaged,12,Full History,Model-based
+KH00107765,Cluster_1,Financially Stretched but Highly Engaged,12,Full History,Model-based
+KH00107770,Cluster_1,Financially Healthy & Highly Engaged,12,Full History,Model-based
+KH00107805,Cluster_1,Financially Stretched but Highly Engaged,12,Full History,Model-based
+KH00107845,Cluster_2,Financially Stretched but Highly Engaged,12,Full History,Model-based
+KH00107850,Cluster_3,Financially Stretched but Highly Engaged,12,Full History,Model-based
+KH00107885,Cluster_1,Financially Healthy & Highly Engaged,12,Full History,Model-based
+KH00107925,Cluster_3,Financially Stretched but Highly Engaged,12,Full History,Model-based
+KH00107930,Cluster_2,Emerging Digital Customers,12,Full History,Model-based
+KH00107965,Cluster_2,Financially Healthy but Disengaged,12,Full History,Model-based
+KH00107970,Cluster_3,Financially Stretched but Highly Engaged,12,Full History,Model-based
+KH00108005,Cluster_0,Low Engagement & Financially Vulnerable,12,Full History,Model-based
+KH00108010,Cluster_0,Low Engagement & Financially Vulnerable,12,Full History,Model-based
+KH00108045,Cluster_2,Financially Healthy & Highly Engaged,12,Full History,Model-based
+KH00108050,Cluster_3,Financially Stretched but Highly Engaged,12,Full History,Model-based
+KH00108085,Cluster_3,Financially Stretched but Highly Engaged,12,Full History,Model-based
+KH00108090,Cluster_2,Financially Healthy but Disengaged,12,Full History,Model-based
+KH00108125,Cluster_2,Low Engagement & Financially Vulnerable,12,Full History,Model-based
+KH00108130,Cluster_0,Financially Healthy but Disengaged,12,Full History,Model-based
+KH00108165,Cluster_1,Financially Healthy & Highly Engaged,12,Full History,Model-based
+KH00108170,Cluster_3,Financially Stretched but Highly Engaged,12,Full History,Model-based
+KH00108205,Cluster_2,Financially Healthy & Highly Engaged,12,Full History,Model-based
+KH00108210,Cluster_0,Emerging Digital Customers,12,Full History,Model-based
+KH00108245,Cluster_0,Low Engagement & Financially Vulnerable,12,Full History,Model-based
+KH00108250,Cluster_3,Essential-Spend-Focused Customers,12,Full History,Model-based
+KH00108285,Cluster_2,Essential-Spend-Focused Customers,12,Full History,Model-based
+KH00108290,Cluster_3,Low Engagement & Financially Vulnerable,12,Full History,Model-based
+KH00108325,Cluster_0,Emerging Digital Customers,12,Full History,Model-based
+KH00108330,Cluster_0,Low Engagement & Financially Vulnerable,12,Full History,Model-based
+KH00108365,Cluster_1,Financially Stretched but Highly Engaged,12,Full History,Model-based
+KH00108370,Cluster_0,Low Engagement & Financially Vulnerable,12,Full History,Model-based
+KH00108405,Cluster_2,Low Engagement & Financially Vulnerable,12,Full History,Model-based
+KH00108410,Cluster_1,Financially Healthy & Highly Engaged,12,Full History,Model-based
+KH00108445,Cluster_0,Emerging Digital Customers,12,Full History,Model-based
+KH00108450,Cluster_1,Financially Healthy & Highly Engaged,12,Full History,Model-based
+KH00108485,Cluster_2,Financially Healthy but Disengaged,12,Full History,Model-based
+KH00108490,Cluster_3,Financially Stretched but Highly Engaged,12,Full History,Model-based
+KH00108525,Cluster_2,Financially Healthy & Highly Engaged,12,Full History,Model-based
+KH00108530,Cluster_1,Financially Stretched but Highly Engaged,12,Full History,Model-based
+KH00108565,Cluster_3,Financially Stretched but Highly Engaged,12,Full History,Model-based
+KH00108570,Cluster_2,Financially Healthy but Disengaged,12,Full History,Model-based
+KH00108605,Cluster_3,Financially Stretched but Highly Engaged,12,Full History,Model-based
+KH00108610,Cluster_2,Low Engagement & Financially Vulnerable,12,Full History,Model-based
+KH00108645,Cluster_2,Financially Healthy but Disengaged,12,Full History,Model-based
+KH00108650,Cluster_0,Financially Healthy but Disengaged,12,Full History,Model-based
+KH00108685,Cluster_2,Financially Healthy but Disengaged,12,Full History,Model-based
+KH00108690,Cluster_2,Financially Healthy & Highly Engaged,12,Full History,Model-based
+KH00108725,Cluster_2,Financially Healthy & Highly Engaged,12,Full History,Model-based
+KH00108730,Cluster_3,Financially Stretched but Highly Engaged,12,Full History,Model-based
+KH00108765,Cluster_1,Financially Stretched but Highly Engaged,12,Full History,Model-based
+KH00108805,Cluster_1,Financially Healthy & Highly Engaged,12,Full History,Model-based
+KH00108810,Cluster_0,Low Engagement & Financially Vulnerable,12,Full History,Model-based
+KH00108845,Cluster_3,Financially Stretched but Highly Engaged,12,Full History,Model-based
+KH00108850,Cluster_2,Financially Healthy but Disengaged,12,Full History,Model-based
+KH00108885,Cluster_3,Essential-Spend-Focused Customers,12,Full History,Model-based
+KH00108890,Cluster_2,Financially Stretched but Highly Engaged,12,Full History,Model-based
+KH00108925,Cluster_3,Financially Stretched but Highly Engaged,12,Full History,Model-based
+KH00108930,Cluster_0,Low Engagement & Financially Vulnerable,12,Full History,Model-based
+KH00108965,Cluster_3,Financially Stretched but Highly Engaged,12,Full History,Model-based
+KH00108970,Cluster_3,Financially Stretched but Highly Engaged,12,Full History,Model-based
+KH00109005,Cluster_0,Financially Healthy but Disengaged,12,Full History,Model-based
+KH00109010,Cluster_2,Essential-Spend-Focused Customers,12,Full History,Model-based
+KH00109045,Cluster_1,Financially Stretched but Highly Engaged,12,Full History,Model-based
+KH00109085,Cluster_3,Low Engagement & Financially Vulnerable,12,Full History,Model-based
+KH00109090,Cluster_3,Financially Stretched but Highly Engaged,12,Full History,Model-based
+KH00109125,Cluster_3,Low Engagement & Financially Vulnerable,12,Full History,Model-based
+KH00109130,Cluster_2,Financially Healthy & Highly Engaged,12,Full History,Model-based
+KH00109165,Cluster_2,Financially Healthy but Disengaged,12,Full History,Model-based
+KH00109170,Cluster_1,Financially Healthy & Highly Engaged,12,Full History,Model-based
+KH00109205,Cluster_2,Financially Healthy but Disengaged,12,Full History,Model-based
+KH00109210,Cluster_2,Low Engagement & Financially Vulnerable,12,Full History,Model-based
+KH00109245,Cluster_3,Financially Stretched but Highly Engaged,12,Full History,Model-based
+KH00109250,Cluster_0,Financially Healthy but Disengaged,12,Full History,Model-based
+KH00109285,Cluster_2,Financially Healthy & Highly Engaged,12,Full History,Model-based
+KH00109290,Cluster_2,Essential-Spend-Focused Customers,12,Full History,Model-based
+KH00109325,Cluster_2,Financially Stretched but Highly Engaged,12,Full History,Model-based
+KH00109330,Cluster_2,Financially Healthy but Disengaged,12,Full History,Model-based
+KH00109365,Cluster_2,Financially Healthy & Highly Engaged,12,Full History,Model-based
+KH00109370,Cluster_3,Financially Stretched but Highly Engaged,12,Full History,Model-based
+KH00109405,Cluster_0,Low Engagement & Financially Vulnerable,12,Full History,Model-based
+KH00109410,Cluster_2,Low Engagement & Financially Vulnerable,12,Full History,Model-based
+KH00109445,Cluster_2,Financially Healthy & Highly Engaged,12,Full History,Model-based
+KH00109450,Cluster_0,Financially Healthy but Disengaged,12,Full History,Model-based
+KH00109490,Cluster_2,Financially Healthy but Disengaged,12,Full History,Model-based
+KH00109525,Cluster_2,Low Engagement & Financially Vulnerable,12,Full History,Model-based
+KH00109530,Cluster_2,Essential-Spend-Focused Customers,12,Full History,Model-based
+KH00109565,Cluster_0,Financially Healthy but Disengaged,12,Full History,Model-based
+KH00109570,Cluster_2,Financially Healthy but Disengaged,12,Full History,Model-based
+KH00109605,Cluster_0,Essential-Spend-Focused Customers,12,Full History,Model-based
+KH00109610,Cluster_3,Financially Stretched but Highly Engaged,12,Full History,Model-based
+KH00109645,Cluster_2,Financially Healthy & Highly Engaged,12,Full History,Model-based
+KH00109650,Cluster_1,Financially Healthy & Highly Engaged,12,Full History,Model-based
+KH00109685,Cluster_3,Financially Stretched but Highly Engaged,12,Full History,Model-based
+KH00109690,Cluster_3,Financially Stretched but Highly Engaged,12,Full History,Model-based
+KH00109730,Cluster_0,Emerging Digital Customers,12,Full History,Model-based
+KH00109765,Cluster_3,Essential-Spend-Focused Customers,12,Full History,Model-based
+KH00109770,Cluster_3,Low Engagement & Financially Vulnerable,12,Full History,Model-based
+KH00109805,Cluster_1,Financially Stretched but Highly Engaged,12,Full History,Model-based
+KH00109845,Cluster_0,Financially Healthy but Disengaged,12,Full History,Model-based
+KH00109850,Cluster_2,Essential-Spend-Focused Customers,12,Full History,Model-based
+KH00109885,Cluster_2,Financially Healthy but Disengaged,12,Full History,Model-based
+KH00109890,Cluster_3,Financially Stretched but Highly Engaged,12,Full History,Model-based
+KH00109925,Cluster_3,Financially Stretched but Highly Engaged,12,Full History,Model-based
+KH00109930,Cluster_3,Financially Stretched but Highly Engaged,12,Full History,Model-based
+KH00109965,Cluster_1,Financially Stretched but Highly Engaged,12,Full History,Model-based
+KH00109970,Cluster_3,Low Engagement & Financially Vulnerable,12,Full History,Model-based
+KH00110005,Cluster_2,Financially Healthy & Highly Engaged,12,Full History,Model-based
+KH00110010,Cluster_1,Emerging Digital Customers,12,Full History,Model-based
+KH00110045,Cluster_1,Financially Healthy & Highly Engaged,12,Full History,Model-based
+KH00110050,Cluster_1,Financially Healthy but Disengaged,12,Full History,Model-based
+KH00110085,Cluster_2,Financially Stretched but Highly Engaged,12,Full History,Model-based
+KH00110090,Cluster_3,Financially Stretched but Highly Engaged,12,Full History,Model-based
+KH00110125,Cluster_2,Low Engagement & Financially Vulnerable,12,Full History,Model-based
+KH00110130,Cluster_2,Financially Healthy but Disengaged,12,Full History,Model-based
+KH00110165,Cluster_2,Financially Healthy & Highly Engaged,12,Full History,Model-based
+KH00110170,Cluster_3,Financially Stretched but Highly Engaged,12,Full History,Model-based
+KH00110205,Cluster_1,Financially Stretched but Highly Engaged,12,Full History,Model-based
+KH00110210,Cluster_2,Financially Healthy but Disengaged,12,Full History,Model-based
+KH00110250,Cluster_2,Financially Healthy & Highly Engaged,12,Full History,Model-based
+KH00110290,Cluster_1,Financially Healthy & Highly Engaged,12,Full History,Model-based
+KH00110325,Cluster_2,Financially Healthy & Highly Engaged,12,Full History,Model-based
+KH00110330,Cluster_3,Financially Stretched but Highly Engaged,12,Full History,Model-based
+KH00110365,Cluster_3,Low Engagement & Financially Vulnerable,12,Full History,Model-based
+KH00110370,Cluster_0,Financially Healthy but Disengaged,12,Full History,Model-based
+KH00110405,Cluster_2,Low Engagement & Financially Vulnerable,12,Full History,Model-based
+KH00110410,Cluster_0,Essential-Spend-Focused Customers,12,Full History,Model-based
+KH00110445,Cluster_0,Financially Healthy but Disengaged,12,Full History,Model-based
+KH00110450,Cluster_3,Low Engagement & Financially Vulnerable,12,Full History,Model-based
+KH00110485,Cluster_3,Low Engagement & Financially Vulnerable,12,Full History,Model-based
+KH00110490,Cluster_2,Financially Healthy & Highly Engaged,12,Full History,Model-based
+KH00110525,Cluster_2,Financially Healthy & Highly Engaged,12,Full History,Model-based
+KH00110530,Cluster_2,Financially Healthy but Disengaged,12,Full History,Model-based
+KH00110565,Cluster_0,Financially Healthy but Disengaged,12,Full History,Model-based
+KH00110570,Cluster_3,Financially Stretched but Highly Engaged,12,Full History,Model-based
+KH00110605,Cluster_1,Financially Stretched but Highly Engaged,12,Full History,Model-based
+KH00110610,Cluster_2,Financially Healthy & Highly Engaged,12,Full History,Model-based
+KH00110645,Cluster_2,Financially Healthy & Highly Engaged,12,Full History,Model-based
+KH00110685,Cluster_0,Financially Healthy but Disengaged,12,Full History,Model-based
+KH00110690,Cluster_0,Financially Healthy but Disengaged,12,Full History,Model-based
+KH00110725,Cluster_2,Financially Healthy & Highly Engaged,12,Full History,Model-based
+KH00110770,Cluster_3,Financially Stretched but Highly Engaged,12,Full History,Model-based
+KH00110805,Cluster_2,Low Engagement & Financially Vulnerable,12,Full History,Model-based
+KH00110810,Cluster_3,Financially Stretched but Highly Engaged,12,Full History,Model-based
+KH00110845,Cluster_0,Low Engagement & Financially Vulnerable,12,Full History,Model-based
+KH00110850,Cluster_3,Financially Stretched but Highly Engaged,12,Full History,Model-based
+KH00110885,Cluster_1,Financially Healthy & Highly Engaged,12,Full History,Model-based
+KH00110890,Cluster_2,Financially Healthy but Disengaged,12,Full History,Model-based
+KH00110930,Cluster_3,Financially Stretched but Highly Engaged,12,Full History,Model-based
+KH00110965,Cluster_2,Financially Healthy but Disengaged,12,Full History,Model-based
+KH00110970,Cluster_0,Emerging Digital Customers,12,Full History,Model-based
+KH00111005,Cluster_1,Financially Healthy & Highly Engaged,12,Full History,Model-based
+KH00111010,Cluster_2,Financially Healthy but Disengaged,12,Full History,Model-based
+KH00111045,Cluster_0,Essential-Spend-Focused Customers,12,Full History,Model-based
+KH00111050,Cluster_3,Financially Stretched but Highly Engaged,12,Full History,Model-based
+KH00111090,Cluster_1,Financially Healthy but Disengaged,12,Full History,Model-based
+KH00111125,Cluster_2,Financially Healthy but Disengaged,12,Full History,Model-based
+KH00111130,Cluster_2,Financially Healthy & Highly Engaged,12,Full History,Model-based
+KH00111165,Cluster_3,Financially Stretched but Highly Engaged,12,Full History,Model-based
+KH00111170,Cluster_0,Low Engagement & Financially Vulnerable,12,Full History,Model-based
+KH00111205,Cluster_1,Financially Stretched but Highly Engaged,12,Full History,Model-based
+KH00111245,Cluster_2,Low Engagement & Financially Vulnerable,12,Full History,Model-based
+KH00111250,Cluster_0,Low Engagement & Financially Vulnerable,12,Full History,Model-based
+KH00111285,Cluster_3,Low Engagement & Financially Vulnerable,12,Full History,Model-based
+KH00111290,Cluster_2,Financially Healthy & Highly Engaged,12,Full History,Model-based
+KH00111325,Cluster_2,Financially Healthy & Highly Engaged,12,Full History,Model-based
+KH00111330,Cluster_3,Low Engagement & Financially Vulnerable,12,Full History,Model-based
+KH00111370,Cluster_0,Low Engagement & Financially Vulnerable,12,Full History,Model-based
+KH00111405,Cluster_2,Financially Stretched but Highly Engaged,12,Full History,Model-based
+KH00111410,Cluster_0,Low Engagement & Financially Vulnerable,12,Full History,Model-based
+KH00111445,Cluster_3,Low Engagement & Financially Vulnerable,12,Full History,Model-based
+KH00111485,Cluster_2,Financially Healthy but Disengaged,12,Full History,Model-based
+KH00111490,Cluster_0,Financially Healthy but Disengaged,12,Full History,Model-based
+KH00111525,Cluster_1,Financially Stretched but Highly Engaged,12,Full History,Model-based
+KH00111530,Cluster_3,Financially Stretched but Highly Engaged,12,Full History,Model-based
+KH00111565,Cluster_3,Low Engagement & Financially Vulnerable,12,Full History,Model-based
+KH00111570,Cluster_2,Low Engagement & Financially Vulnerable,12,Full History,Model-based
+KH00111605,Cluster_3,Low Engagement & Financially Vulnerable,12,Full History,Model-based
+KH00111610,Cluster_3,Financially Stretched but Highly Engaged,12,Full History,Model-based
+KH00111645,Cluster_1,Financially Stretched but Highly Engaged,12,Full History,Model-based
+KH00111650,Cluster_2,Financially Healthy & Highly Engaged,12,Full History,Model-based
+KH00111685,Cluster_3,Essential-Spend-Focused Customers,12,Full History,Model-based
+KH00111725,Cluster_1,Financially Stretched but Highly Engaged,12,Full History,Model-based
+KH00111730,Cluster_2,Financially Healthy but Disengaged,12,Full History,Model-based
+KH00111765,Cluster_3,Financially Stretched but Highly Engaged,12,Full History,Model-based
+KH00111770,Cluster_2,Financially Healthy & Highly Engaged,12,Full History,Model-based
+KH00111805,Cluster_2,Financially Healthy but Disengaged,12,Full History,Model-based
+KH00111810,Cluster_0,Financially Healthy but Disengaged,12,Full History,Model-based
+KH00111845,Cluster_3,Essential-Spend-Focused Customers,12,Full History,Model-based
+KH00111850,Cluster_3,Financially Stretched but Highly Engaged,12,Full History,Model-based
+KH00111890,Cluster_2,Financially Healthy & Highly Engaged,12,Full History,Model-based
+KH00111925,Cluster_1,Financially Healthy & Highly Engaged,12,Full History,Model-based
+KH00111930,Cluster_3,Financially Stretched but Highly Engaged,12,Full History,Model-based
+KH00111965,Cluster_0,Financially Healthy but Disengaged,12,Full History,Model-based
+KH00111970,Cluster_2,Financially Healthy & Highly Engaged,12,Full History,Model-based
+KH00112005,Cluster_1,Financially Healthy & Highly Engaged,12,Full History,Model-based
+KH00112010,Cluster_0,Financially Healthy but Disengaged,12,Full History,Model-based
+KH00112050,Cluster_3,Financially Stretched but Highly Engaged,12,Full History,Model-based
+KH00112085,Cluster_2,Financially Healthy but Disengaged,12,Full History,Model-based
+KH00112090,Cluster_3,Financially Stretched but Highly Engaged,12,Full History,Model-based
+KH00112125,Cluster_1,Low Engagement & Financially Vulnerable,12,Full History,Model-based
+KH00112130,Cluster_0,Essential-Spend-Focused Customers,12,Full History,Model-based
+KH00112165,Cluster_3,Financially Stretched but Highly Engaged,12,Full History,Model-based
+KH00112170,Cluster_2,Financially Healthy but Disengaged,12,Full History,Model-based
+KH00112205,Cluster_3,Financially Stretched but Highly Engaged,12,Full History,Model-based
+KH00112210,Cluster_3,Financially Stretched but Highly Engaged,12,Full History,Model-based
+KH00112245,Cluster_2,Financially Healthy & Highly Engaged,12,Full History,Model-based
+KH00112250,Cluster_2,Financially Healthy but Disengaged,12,Full History,Model-based
+KH00112285,Cluster_1,Low Engagement & Financially Vulnerable,12,Full History,Model-based
+KH00112290,Cluster_0,Financially Healthy but Disengaged,12,Full History,Model-based
+KH00112325,Cluster_2,Financially Healthy & Highly Engaged,12,Full History,Model-based
+KH00112330,Cluster_2,Financially Healthy but Disengaged,12,Full History,Model-based
+KH00112365,Cluster_0,Financially Healthy but Disengaged,12,Full History,Model-based
+KH00112405,Cluster_2,Essential-Spend-Focused Customers,12,Full History,Model-based
+KH00112410,Cluster_2,Financially Healthy & Highly Engaged,12,Full History,Model-based
+KH00112445,Cluster_0,Financially Healthy but Disengaged,12,Full History,Model-based
+KH00112450,Cluster_0,Low Engagement & Financially Vulnerable,12,Full History,Model-based
+KH00112485,Cluster_3,Financially Stretched but Highly Engaged,12,Full History,Model-based
+KH00112490,Cluster_2,Financially Healthy but Disengaged,12,Full History,Model-based
+KH00112525,Cluster_3,Financially Stretched but Highly Engaged,12,Full History,Model-based
+KH00112530,Cluster_2,Financially Healthy & Highly Engaged,12,Full History,Model-based
+KH00112565,Cluster_0,Low Engagement & Financially Vulnerable,12,Full History,Model-based
+KH00112570,Cluster_0,Financially Healthy but Disengaged,12,Full History,Model-based
+KH00112605,Cluster_1,Financially Healthy & Highly Engaged,12,Full History,Model-based
+KH00112610,Cluster_2,Financially Healthy & Highly Engaged,12,Full History,Model-based
+KH00112645,Cluster_2,Financially Healthy & Highly Engaged,12,Full History,Model-based
+KH00112650,Cluster_1,Financially Healthy & Highly Engaged,12,Full History,Model-based
+KH00112685,Cluster_1,Financially Healthy & Highly Engaged,12,Full History,Model-based
+KH00112690,Cluster_2,Financially Healthy but Disengaged,12,Full History,Model-based
+KH00112765,Cluster_1,Financially Healthy & Highly Engaged,12,Full History,Model-based
+KH00112770,Cluster_0,Essential-Spend-Focused Customers,12,Full History,Model-based
+KH00112805,Cluster_3,Low Engagement & Financially Vulnerable,12,Full History,Model-based
+KH00112810,Cluster_2,Financially Healthy but Disengaged,12,Full History,Model-based
+KH00112845,Cluster_3,Financially Stretched but Highly Engaged,12,Full History,Model-based
+KH00112850,Cluster_2,Low Engagement & Financially Vulnerable,12,Full History,Model-based
+KH00112885,Cluster_2,Financially Healthy & Highly Engaged,12,Full History,Model-based
+KH00112890,Cluster_2,Financially Stretched but Highly Engaged,12,Full History,Model-based
+KH00112925,Cluster_2,Financially Healthy but Disengaged,12,Full History,Model-based
+KH00112930,Cluster_2,Financially Healthy & Highly Engaged,12,Full History,Model-based
+KH00112970,Cluster_2,Financially Healthy & Highly Engaged,12,Full History,Model-based
+KH00113005,Cluster_2,Financially Healthy but Disengaged,12,Full History,Model-based
+KH00113010,Cluster_1,Financially Stretched but Highly Engaged,12,Full History,Model-based
+KH00113045,Cluster_0,Low Engagement & Financially Vulnerable,12,Full History,Model-based
+KH00113085,Cluster_1,Financially Stretched but Highly Engaged,12,Full History,Model-based
+KH00113090,Cluster_2,Financially Healthy but Disengaged,12,Full History,Model-based
+KH00113125,Cluster_3,Financially Stretched but Highly Engaged,12,Full History,Model-based
+KH00113130,Cluster_0,Low Engagement & Financially Vulnerable,12,Full History,Model-based
+KH00113165,Cluster_3,Low Engagement & Financially Vulnerable,12,Full History,Model-based
+KH00113170,Cluster_3,Financially Stretched but Highly Engaged,12,Full History,Model-based
+KH00113205,Cluster_3,Low Engagement & Financially Vulnerable,12,Full History,Model-based
+KH00113210,Cluster_2,Financially Healthy & Highly Engaged,12,Full History,Model-based
+KH00113245,Cluster_2,Financially Healthy & Highly Engaged,12,Full History,Model-based
+KH00113250,Cluster_3,Financially Stretched but Highly Engaged,12,Full History,Model-based
+KH00113285,Cluster_1,Financially Healthy & Highly Engaged,12,Full History,Model-based
+KH00113290,Cluster_3,Financially Stretched but Highly Engaged,12,Full History,Model-based
+KH00113325,Cluster_2,Financially Stretched but Highly Engaged,12,Full History,Model-based
+KH00113330,Cluster_2,Financially Healthy & Highly Engaged,12,Full History,Model-based
+KH00113365,Cluster_3,Low Engagement & Financially Vulnerable,12,Full History,Model-based
+KH00113370,Cluster_0,Low Engagement & Financially Vulnerable,12,Full History,Model-based
+KH00113405,Cluster_1,Financially Stretched but Highly Engaged,12,Full History,Model-based
+KH00113410,Cluster_1,Financially Healthy & Highly Engaged,12,Full History,Model-based
+KH00113445,Cluster_2,Essential-Spend-Focused Customers,12,Full History,Model-based
+KH00113450,Cluster_2,Financially Stretched but Highly Engaged,12,Full History,Model-based
+KH00113485,Cluster_3,Low Engagement & Financially Vulnerable,12,Full History,Model-based
+KH00113490,Cluster_3,Financially Stretched but Highly Engaged,12,Full History,Model-based
+KH00113525,Cluster_1,Financially Stretched but Highly Engaged,12,Full History,Model-based
+KH00113565,Cluster_3,Financially Stretched but Highly Engaged,12,Full History,Model-based
+KH00113570,Cluster_2,Financially Stretched but Highly Engaged,12,Full History,Model-based
+KH00113605,Cluster_2,Financially Healthy & Highly Engaged,12,Full History,Model-based
+KH00113610,Cluster_1,Financially Healthy & Highly Engaged,12,Full History,Model-based
+KH00113645,Cluster_2,Financially Healthy but Disengaged,12,Full History,Model-based
+KH00113650,Cluster_1,Financially Stretched but Highly Engaged,12,Full History,Model-based
+KH00113725,Cluster_1,Financially Stretched but Highly Engaged,12,Full History,Model-based
+KH00113730,Cluster_2,Financially Healthy but Disengaged,12,Full History,Model-based
+KH00113765,Cluster_0,Low Engagement & Financially Vulnerable,12,Full History,Model-based
+KH00113770,Cluster_3,Financially Stretched but Highly Engaged,12,Full History,Model-based
+KH00113805,Cluster_0,Financially Healthy but Disengaged,12,Full History,Model-based
+KH00113810,Cluster_2,Financially Healthy but Disengaged,12,Full History,Model-based
+KH00113845,Cluster_1,Financially Healthy & Highly Engaged,12,Full History,Model-based
+KH00113850,Cluster_1,Emerging Digital Customers,12,Full History,Model-based
+KH00113885,Cluster_1,Financially Healthy & Highly Engaged,12,Full History,Model-based
+KH00113890,Cluster_3,Financially Stretched but Highly Engaged,12,Full History,Model-based
+KH00113930,Cluster_2,Financially Healthy & Highly Engaged,12,Full History,Model-based
+KH00113965,Cluster_3,Low Engagement & Financially Vulnerable,12,Full History,Model-based
+KH00113970,Cluster_2,Financially Healthy but Disengaged,12,Full History,Model-based
+KH00114005,Cluster_1,Financially Healthy & Highly Engaged,12,Full History,Model-based
+KH00114010,Cluster_3,Financially Stretched but Highly Engaged,12,Full History,Model-based
+KH00114045,Cluster_3,Financially Stretched but Highly Engaged,12,Full History,Model-based
+KH00114050,Cluster_2,Financially Healthy & Highly Engaged,12,Full History,Model-based
+KH00114085,Cluster_3,Financially Stretched but Highly Engaged,12,Full History,Model-based
+KH00114090,Cluster_3,Essential-Spend-Focused Customers,12,Full History,Model-based
+KH00114125,Cluster_2,Financially Healthy & Highly Engaged,12,Full History,Model-based
+KH00114130,Cluster_3,Financially Stretched but Highly Engaged,12,Full History,Model-based
+KH00114165,Cluster_2,Financially Healthy but Disengaged,12,Full History,Model-based
+KH00114170,Cluster_3,Low Engagement & Financially Vulnerable,12,Full History,Model-based
+KH00114205,Cluster_2,Financially Stretched but Highly Engaged,12,Full History,Model-based
+KH00114245,Cluster_2,Financially Healthy but Disengaged,12,Full History,Model-based
+KH00114250,Cluster_0,Financially Healthy but Disengaged,12,Full History,Model-based
+KH00114290,Cluster_2,Financially Healthy but Disengaged,12,Full History,Model-based
+KH00114325,Cluster_2,Essential-Spend-Focused Customers,12,Full History,Model-based
+KH00114330,Cluster_1,Financially Healthy & Highly Engaged,12,Full History,Model-based
+KH00114365,Cluster_3,Financially Stretched but Highly Engaged,12,Full History,Model-based
+KH00114370,Cluster_0,Low Engagement & Financially Vulnerable,12,Full History,Model-based
+KH00114405,Cluster_3,Financially Stretched but Highly Engaged,12,Full History,Model-based
+KH00114410,Cluster_1,Low Engagement & Financially Vulnerable,12,Full History,Model-based
+KH00114445,Cluster_0,Low Engagement & Financially Vulnerable,12,Full History,Model-based
+KH00114450,Cluster_3,Essential-Spend-Focused Customers,12,Full History,Model-based
+KH00114485,Cluster_0,Low Engagement & Financially Vulnerable,12,Full History,Model-based
+KH00114490,Cluster_2,Essential-Spend-Focused Customers,12,Full History,Model-based
+KH00114525,Cluster_2,Financially Healthy & Highly Engaged,12,Full History,Model-based
+KH00114530,Cluster_3,Financially Stretched but Highly Engaged,12,Full History,Model-based
+KH00114565,Cluster_2,Financially Healthy & Highly Engaged,12,Full History,Model-based
+KH00114570,Cluster_0,Low Engagement & Financially Vulnerable,12,Full History,Model-based
+KH00114610,Cluster_3,Low Engagement & Financially Vulnerable,12,Full History,Model-based
+KH00114645,Cluster_2,Essential-Spend-Focused Customers,12,Full History,Model-based
+KH00114650,Cluster_0,Low Engagement & Financially Vulnerable,12,Full History,Model-based
+KH00114685,Cluster_0,Low Engagement & Financially Vulnerable,12,Full History,Model-based
+KH00114690,Cluster_2,Low Engagement & Financially Vulnerable,12,Full History,Model-based
+KH00114730,Cluster_3,Financially Stretched but Highly Engaged,12,Full History,Model-based
+KH00114765,Cluster_3,Low Engagement & Financially Vulnerable,12,Full History,Model-based
+KH00114770,Cluster_2,Financially Healthy & Highly Engaged,12,Full History,Model-based
+KH00114805,Cluster_1,Financially Healthy & Highly Engaged,12,Full History,Model-based
+KH00114845,Cluster_2,Financially Healthy & Highly Engaged,12,Full History,Model-based
+KH00114850,Cluster_0,Financially Healthy but Disengaged,12,Full History,Model-based
+KH00114885,Cluster_0,Low Engagement & Financially Vulnerable,12,Full History,Model-based
+KH00114890,Cluster_2,Low Engagement & Financially Vulnerable,12,Full History,Model-based
+KH00114925,Cluster_3,Emerging Digital Customers,12,Full History,Model-based
+KH00114930,Cluster_0,Financially Healthy but Disengaged,12,Full History,Model-based
+KH00114965,Cluster_2,Essential-Spend-Focused Customers,12,Full History,Model-based
+KH00114970,Cluster_1,Financially Stretched but Highly Engaged,12,Full History,Model-based
+KH00115005,Cluster_2,Essential-Spend-Focused Customers,12,Full History,Model-based
+KH00115010,Cluster_2,Financially Healthy but Disengaged,12,Full History,Model-based
+KH00115045,Cluster_1,Emerging Digital Customers,12,Full History,Model-based
+KH00115050,Cluster_1,Financially Healthy & Highly Engaged,12,Full History,Model-based
+KH00115085,Cluster_3,Financially Stretched but Highly Engaged,12,Full History,Model-based
+KH00115090,Cluster_0,Emerging Digital Customers,12,Full History,Model-based
+KH00115125,Cluster_2,Financially Healthy but Disengaged,12,Full History,Model-based
+KH00115130,Cluster_3,Emerging Digital Customers,12,Full History,Model-based
+KH00115165,Cluster_0,Financially Healthy but Disengaged,12,Full History,Model-based
+KH00115170,Cluster_1,Financially Healthy & Highly Engaged,12,Full History,Model-based
+KH00115205,Cluster_3,Financially Stretched but Highly Engaged,12,Full History,Model-based
+KH00115210,Cluster_2,Financially Healthy & Highly Engaged,12,Full History,Model-based
+KH00115245,Cluster_3,Financially Stretched but Highly Engaged,12,Full History,Model-based
+KH00115250,Cluster_0,Essential-Spend-Focused Customers,12,Full History,Model-based
+KH00115285,Cluster_2,Financially Healthy & Highly Engaged,12,Full History,Model-based
+KH00115290,Cluster_1,Financially Healthy & Highly Engaged,12,Full History,Model-based
+KH00115325,Cluster_1,Financially Healthy & Highly Engaged,12,Full History,Model-based
+KH00115330,Cluster_3,Financially Stretched but Highly Engaged,12,Full History,Model-based
+KH00115365,Cluster_1,Financially Stretched but Highly Engaged,12,Full History,Model-based
+KH00115405,Cluster_1,Financially Stretched but Highly Engaged,12,Full History,Model-based
+KH00115410,Cluster_0,Emerging Digital Customers,12,Full History,Model-based
+KH00115445,Cluster_3,Financially Stretched but Highly Engaged,12,Full History,Model-based
+KH00115450,Cluster_1,Financially Healthy & Highly Engaged,12,Full History,Model-based
+KH00115485,Cluster_2,Financially Healthy but Disengaged,12,Full History,Model-based
+KH00115490,Cluster_1,Financially Healthy & Highly Engaged,12,Full History,Model-based
+KH00115525,Cluster_0,Essential-Spend-Focused Customers,12,Full History,Model-based
+KH00115530,Cluster_1,Financially Stretched but Highly Engaged,12,Full History,Model-based
+KH00115565,Cluster_2,Essential-Spend-Focused Customers,12,Full History,Model-based
+KH00115570,Cluster_0,Financially Healthy but Disengaged,12,Full History,Model-based
+KH00115610,Cluster_3,Financially Stretched but Highly Engaged,12,Full History,Model-based
+KH00115650,Cluster_3,Financially Stretched but Highly Engaged,12,Full History,Model-based
+KH00115685,Cluster_3,Financially Stretched but Highly Engaged,12,Full History,Model-based
+KH00115690,Cluster_3,Financially Stretched but Highly Engaged,12,Full History,Model-based
+KH00115725,Cluster_3,Financially Stretched but Highly Engaged,12,Full History,Model-based
+KH00115730,Cluster_3,Financially Stretched but Highly Engaged,12,Full History,Model-based
+KH00115770,Cluster_0,Low Engagement & Financially Vulnerable,12,Full History,Model-based
+KH00115805,Cluster_3,Essential-Spend-Focused Customers,12,Full History,Model-based
+KH00115810,Cluster_0,Financially Healthy but Disengaged,12,Full History,Model-based
+KH00115845,Cluster_2,Financially Healthy but Disengaged,12,Full History,Model-based
+KH00115850,Cluster_1,Financially Stretched but Highly Engaged,12,Full History,Model-based
+KH00115885,Cluster_2,Financially Healthy but Disengaged,12,Full History,Model-based
+KH00115890,Cluster_1,Financially Healthy but Disengaged,12,Full History,Model-based
+KH00115925,Cluster_1,Financially Healthy & Highly Engaged,12,Full History,Model-based
+KH00115930,Cluster_2,Financially Healthy & Highly Engaged,12,Full History,Model-based
+KH00115965,Cluster_3,Low Engagement & Financially Vulnerable,12,Full History,Model-based
+KH00115970,Cluster_2,Financially Healthy & Highly Engaged,12,Full History,Model-based
+KH00116005,Cluster_2,Financially Healthy but Disengaged,12,Full History,Model-based
+KH00116010,Cluster_3,Low Engagement & Financially Vulnerable,12,Full History,Model-based
+KH00116045,Cluster_3,Low Engagement & Financially Vulnerable,12,Full History,Model-based
+KH00116050,Cluster_3,Low Engagement & Financially Vulnerable,12,Full History,Model-based
+KH00116085,Cluster_0,Low Engagement & Financially Vulnerable,12,Full History,Model-based
+KH00116090,Cluster_3,Financially Stretched but Highly Engaged,12,Full History,Model-based
+KH00116130,Cluster_3,Financially Stretched but Highly Engaged,12,Full History,Model-based
+KH00116165,Cluster_0,Financially Healthy but Disengaged,12,Full History,Model-based
+KH00116170,Cluster_3,Financially Stretched but Highly Engaged,12,Full History,Model-based
+KH00116205,Cluster_0,Low Engagement & Financially Vulnerable,12,Full History,Model-based
+KH00116210,Cluster_2,Financially Healthy & Highly Engaged,12,Full History,Model-based
+KH00116245,Cluster_1,Financially Healthy & Highly Engaged,12,Full History,Model-based
+KH00116250,Cluster_2,Essential-Spend-Focused Customers,12,Full History,Model-based
+KH00116285,Cluster_2,Financially Healthy & Highly Engaged,12,Full History,Model-based
+KH00116290,Cluster_3,Low Engagement & Financially Vulnerable,12,Full History,Model-based
+KH00116325,Cluster_3,Financially Stretched but Highly Engaged,12,Full History,Model-based
+KH00116330,Cluster_1,Financially Stretched but Highly Engaged,12,Full History,Model-based
+KH00116365,Cluster_2,Financially Healthy but Disengaged,12,Full History,Model-based
+KH00116405,Cluster_0,Financially Healthy but Disengaged,12,Full History,Model-based
+KH00116410,Cluster_3,Low Engagement & Financially Vulnerable,12,Full History,Model-based
+KH00116450,Cluster_0,Low Engagement & Financially Vulnerable,12,Full History,Model-based
+KH00116490,Cluster_3,Low Engagement & Financially Vulnerable,12,Full History,Model-based
+KH00116525,Cluster_2,Financially Healthy & Highly Engaged,12,Full History,Model-based
+KH00116530,Cluster_1,Financially Healthy & Highly Engaged,12,Full History,Model-based
+KH00116565,Cluster_3,Low Engagement & Financially Vulnerable,12,Full History,Model-based
+KH00116570,Cluster_2,Financially Healthy & Highly Engaged,12,Full History,Model-based
+KH00116610,Cluster_3,Financially Stretched but Highly Engaged,12,Full History,Model-based
+KH00116650,Cluster_1,Financially Healthy & Highly Engaged,12,Full History,Model-based
+KH00116685,Cluster_0,Essential-Spend-Focused Customers,12,Full History,Model-based
+KH00116690,Cluster_1,Financially Healthy but Disengaged,12,Full History,Model-based
+KH00116730,Cluster_2,Financially Healthy & Highly Engaged,12,Full History,Model-based
+KH00116765,Cluster_0,Emerging Digital Customers,12,Full History,Model-based
+KH00116770,Cluster_0,Financially Healthy but Disengaged,12,Full History,Model-based
+KH00116810,Cluster_2,Financially Healthy but Disengaged,12,Full History,Model-based
+KH00116845,Cluster_3,Financially Stretched but Highly Engaged,12,Full History,Model-based
+KH00116850,Cluster_3,Emerging Digital Customers,12,Full History,Model-based
+KH00116885,Cluster_3,Low Engagement & Financially Vulnerable,12,Full History,Model-based
+KH00116890,Cluster_2,Financially Healthy & Highly Engaged,12,Full History,Model-based
+KH00116925,Cluster_2,Financially Healthy & Highly Engaged,12,Full History,Model-based
+KH00116930,Cluster_3,Financially Healthy & Highly Engaged,12,Full History,Model-based
+KH00116965,Cluster_2,Financially Healthy & Highly Engaged,12,Full History,Model-based
+KH00116970,Cluster_1,Financially Stretched but Highly Engaged,12,Full History,Model-based
+KH00117005,Cluster_2,Financially Healthy but Disengaged,12,Full History,Model-based
+KH00117010,Cluster_2,Emerging Digital Customers,12,Full History,Model-based
+KH00117045,Cluster_1,Financially Stretched but Highly Engaged,12,Full History,Model-based
+KH00117050,Cluster_0,Low Engagement & Financially Vulnerable,12,Full History,Model-based
+KH00117085,Cluster_1,Financially Healthy & Highly Engaged,12,Full History,Model-based
+KH00117090,Cluster_1,Financially Healthy but Disengaged,12,Full History,Model-based
+KH00117125,Cluster_0,Essential-Spend-Focused Customers,12,Full History,Model-based
+KH00117130,Cluster_0,Low Engagement & Financially Vulnerable,12,Full History,Model-based
+KH00117165,Cluster_3,Financially Stretched but Highly Engaged,12,Full History,Model-based
+KH00117170,Cluster_1,Financially Stretched but Highly Engaged,12,Full History,Model-based
+KH00117205,Cluster_3,Low Engagement & Financially Vulnerable,12,Full History,Model-based
+KH00117210,Cluster_0,Emerging Digital Customers,12,Full History,Model-based
+KH00117245,Cluster_2,Financially Healthy & Highly Engaged,12,Full History,Model-based
+KH00117250,Cluster_1,Financially Stretched but Highly Engaged,12,Full History,Model-based
+KH00117290,Cluster_2,Low Engagement & Financially Vulnerable,12,Full History,Model-based
+KH00117325,Cluster_1,Financially Healthy & Highly Engaged,12,Full History,Model-based
+KH00117330,Cluster_0,Low Engagement & Financially Vulnerable,12,Full History,Model-based
+KH00117365,Cluster_2,Financially Healthy & Highly Engaged,12,Full History,Model-based
+KH00117370,Cluster_2,Financially Healthy & Highly Engaged,12,Full History,Model-based
+KH00117405,Cluster_2,Financially Healthy & Highly Engaged,12,Full History,Model-based
+KH00117450,Cluster_2,Financially Healthy & Highly Engaged,12,Full History,Model-based
+KH00117485,Cluster_1,Financially Stretched but Highly Engaged,12,Full History,Model-based
+KH00117490,Cluster_1,Financially Healthy & Highly Engaged,12,Full History,Model-based
+KH00117525,Cluster_0,Low Engagement & Financially Vulnerable,12,Full History,Model-based
+KH00117530,Cluster_3,Emerging Digital Customers,12,Full History,Model-based
+KH00117565,Cluster_2,Financially Healthy but Disengaged,12,Full History,Model-based
+KH00117570,Cluster_1,Financially Healthy & Highly Engaged,12,Full History,Model-based
+KH00117605,Cluster_2,Financially Healthy but Disengaged,12,Full History,Model-based
+KH00117610,Cluster_1,Financially Healthy & Highly Engaged,12,Full History,Model-based
+KH00117645,Cluster_2,Financially Stretched but Highly Engaged,12,Full History,Model-based
+KH00117650,Cluster_2,Low Engagement & Financially Vulnerable,12,Full History,Model-based
+KH00117685,Cluster_3,Financially Stretched but Highly Engaged,12,Full History,Model-based
+KH00117690,Cluster_3,Financially Stretched but Highly Engaged,12,Full History,Model-based
+KH00117725,Cluster_2,Essential-Spend-Focused Customers,12,Full History,Model-based
+KH00117730,Cluster_2,Financially Healthy but Disengaged,12,Full History,Model-based
+KH00117765,Cluster_2,Financially Healthy but Disengaged,12,Full History,Model-based
+KH00117770,Cluster_0,Financially Healthy but Disengaged,12,Full History,Model-based
+KH00117805,Cluster_3,Financially Stretched but Highly Engaged,12,Full History,Model-based
+KH00117810,Cluster_1,Financially Healthy & Highly Engaged,12,Full History,Model-based
+KH00117845,Cluster_0,Low Engagement & Financially Vulnerable,12,Full History,Model-based
+KH00117850,Cluster_3,Financially Stretched but Highly Engaged,12,Full History,Model-based
+KH00117885,Cluster_2,Financially Healthy & Highly Engaged,12,Full History,Model-based
+KH00117925,Cluster_2,Financially Healthy & Highly Engaged,12,Full History,Model-based
+KH00117930,Cluster_1,Financially Healthy but Disengaged,12,Full History,Model-based
+KH00117965,Cluster_0,Low Engagement & Financially Vulnerable,12,Full History,Model-based
+KH00117970,Cluster_3,Low Engagement & Financially Vulnerable,12,Full History,Model-based
+KH00118005,Cluster_3,Low Engagement & Financially Vulnerable,12,Full History,Model-based
+KH00118010,Cluster_2,Financially Healthy but Disengaged,12,Full History,Model-based
+KH00118045,Cluster_3,Low Engagement & Financially Vulnerable,12,Full History,Model-based
+KH00118050,Cluster_3,Low Engagement & Financially Vulnerable,12,Full History,Model-based
+KH00118085,Cluster_2,Financially Stretched but Highly Engaged,12,Full History,Model-based
+KH00118090,Cluster_0,Financially Healthy but Disengaged,12,Full History,Model-based
+KH00118125,Cluster_1,Financially Stretched but Highly Engaged,12,Full History,Model-based
+KH00118170,Cluster_3,Low Engagement & Financially Vulnerable,12,Full History,Model-based
+KH00118205,Cluster_2,Financially Healthy & Highly Engaged,12,Full History,Model-based
+KH00118210,Cluster_2,Financially Healthy but Disengaged,12,Full History,Model-based
+KH00118245,Cluster_1,Low Engagement & Financially Vulnerable,12,Full History,Model-based
+KH00118285,Cluster_0,Low Engagement & Financially Vulnerable,12,Full History,Model-based
+KH00118290,Cluster_0,Financially Healthy but Disengaged,12,Full History,Model-based
+KH00118325,Cluster_2,Financially Healthy & Highly Engaged,12,Full History,Model-based
+KH00118330,Cluster_2,Financially Healthy & Highly Engaged,12,Full History,Model-based
+KH00118365,Cluster_3,Low Engagement & Financially Vulnerable,12,Full History,Model-based
+KH00118370,Cluster_0,Financially Healthy but Disengaged,12,Full History,Model-based
+KH00118405,Cluster_0,Low Engagement & Financially Vulnerable,12,Full History,Model-based
+KH00118410,Cluster_0,Low Engagement & Financially Vulnerable,12,Full History,Model-based
+KH00118445,Cluster_3,Financially Stretched but Highly Engaged,12,Full History,Model-based
+KH00118450,Cluster_0,Financially Healthy but Disengaged,12,Full History,Model-based
+KH00118485,Cluster_0,Low Engagement & Financially Vulnerable,12,Full History,Model-based
+KH00118490,Cluster_3,Financially Stretched but Highly Engaged,12,Full History,Model-based
+KH00118525,Cluster_2,Financially Healthy & Highly Engaged,12,Full History,Model-based
+KH00118530,Cluster_3,Low Engagement & Financially Vulnerable,12,Full History,Model-based
+KH00118565,Cluster_2,Financially Healthy but Disengaged,12,Full History,Model-based
+KH00118570,Cluster_3,Financially Stretched but Highly Engaged,12,Full History,Model-based
+KH00118605,Cluster_2,Financially Healthy & Highly Engaged,12,Full History,Model-based
+KH00118610,Cluster_0,Financially Healthy but Disengaged,12,Full History,Model-based
+KH00118645,Cluster_1,Financially Stretched but Highly Engaged,12,Full History,Model-based
+KH00118650,Cluster_2,Financially Healthy & Highly Engaged,12,Full History,Model-based
+KH00118685,Cluster_1,Financially Healthy but Disengaged,12,Full History,Model-based
+KH00118690,Cluster_1,Financially Healthy but Disengaged,12,Full History,Model-based
+KH00118725,Cluster_0,Essential-Spend-Focused Customers,12,Full History,Model-based
+KH00118730,Cluster_0,Financially Healthy but Disengaged,12,Full History,Model-based
+KH00118770,Cluster_0,Emerging Digital Customers,12,Full History,Model-based
+KH00118805,Cluster_0,Low Engagement & Financially Vulnerable,12,Full History,Model-based
+KH00118810,Cluster_1,Financially Stretched but Highly Engaged,12,Full History,Model-based
+KH00118845,Cluster_1,Financially Healthy & Highly Engaged,12,Full History,Model-based
+KH00118850,Cluster_3,Low Engagement & Financially Vulnerable,12,Full History,Model-based
+KH00118885,Cluster_0,Financially Healthy but Disengaged,12,Full History,Model-based
+KH00118890,Cluster_3,Financially Stretched but Highly Engaged,12,Full History,Model-based
+KH00118930,Cluster_0,Low Engagement & Financially Vulnerable,12,Full History,Model-based
+KH00118965,Cluster_2,Financially Healthy but Disengaged,12,Full History,Model-based
+KH00118970,Cluster_0,Financially Healthy but Disengaged,12,Full History,Model-based
+KH00119005,Cluster_0,Financially Healthy but Disengaged,12,Full History,Model-based
+KH00119010,Cluster_0,Low Engagement & Financially Vulnerable,12,Full History,Model-based
+KH00119045,Cluster_0,Financially Healthy but Disengaged,12,Full History,Model-based
+KH00119050,Cluster_2,Financially Stretched but Highly Engaged,12,Full History,Model-based
+KH00119085,Cluster_0,Low Engagement & Financially Vulnerable,12,Full History,Model-based
+KH00119090,Cluster_1,Financially Healthy & Highly Engaged,12,Full History,Model-based
+KH00119125,Cluster_1,Financially Healthy & Highly Engaged,12,Full History,Model-based
+KH00119130,Cluster_0,Financially Healthy but Disengaged,12,Full History,Model-based
+KH00119165,Cluster_2,Financially Healthy & Highly Engaged,12,Full History,Model-based
+KH00119170,Cluster_3,Financially Stretched but Highly Engaged,12,Full History,Model-based
+KH00119205,Cluster_3,Financially Stretched but Highly Engaged,12,Full History,Model-based
+KH00119210,Cluster_3,Low Engagement & Financially Vulnerable,12,Full History,Model-based
+KH00119245,Cluster_3,Financially Stretched but Highly Engaged,12,Full History,Model-based
+KH00119250,Cluster_0,Low Engagement & Financially Vulnerable,12,Full History,Model-based
+KH00119285,Cluster_0,Financially Healthy but Disengaged,12,Full History,Model-based
+KH00119290,Cluster_2,Financially Stretched but Highly Engaged,12,Full History,Model-based
+KH00119330,Cluster_0,Low Engagement & Financially Vulnerable,12,Full History,Model-based
+KH00119365,Cluster_3,Financially Stretched but Highly Engaged,12,Full History,Model-based
+KH00119370,Cluster_3,Low Engagement & Financially Vulnerable,12,Full History,Model-based
+KH00119405,Cluster_1,Financially Stretched but Highly Engaged,12,Full History,Model-based
+KH00119410,Cluster_0,Emerging Digital Customers,12,Full History,Model-based
+KH00119445,Cluster_2,Financially Healthy but Disengaged,12,Full History,Model-based
+KH00119450,Cluster_3,Financially Stretched but Highly Engaged,12,Full History,Model-based
+KH00119485,Cluster_0,Essential-Spend-Focused Customers,12,Full History,Model-based
+KH00119490,Cluster_2,Financially Healthy & Highly Engaged,12,Full History,Model-based
+KH00119525,Cluster_3,Low Engagement & Financially Vulnerable,12,Full History,Model-based
+KH00119530,Cluster_2,Financially Healthy & Highly Engaged,12,Full History,Model-based
+KH00119565,Cluster_0,Low Engagement & Financially Vulnerable,12,Full History,Model-based
+KH00119570,Cluster_3,Financially Stretched but Highly Engaged,12,Full History,Model-based
+KH00119605,Cluster_1,Financially Healthy & Highly Engaged,12,Full History,Model-based
+KH00119610,Cluster_2,Financially Healthy but Disengaged,12,Full History,Model-based
+KH00119645,Cluster_2,Financially Healthy but Disengaged,12,Full History,Model-based
+KH00119650,Cluster_2,Financially Healthy but Disengaged,12,Full History,Model-based
+KH00119690,Cluster_2,Financially Healthy & Highly Engaged,12,Full History,Model-based
+KH00119725,Cluster_0,Financially Healthy but Disengaged,12,Full History,Model-based
+KH00119730,Cluster_3,Low Engagement & Financially Vulnerable,12,Full History,Model-based
+KH00119765,Cluster_0,Low Engagement & Financially Vulnerable,12,Full History,Model-based
+KH00119770,Cluster_0,Financially Healthy but Disengaged,12,Full History,Model-based
+KH00119805,Cluster_3,Financially Stretched but Highly Engaged,12,Full History,Model-based
+KH00119810,Cluster_0,Financially Healthy but Disengaged,12,Full History,Model-based
+KH00119845,Cluster_2,Financially Healthy & Highly Engaged,12,Full History,Model-based
+KH00119850,Cluster_3,Emerging Digital Customers,12,Full History,Model-based
+KH00119885,Cluster_2,Financially Healthy but Disengaged,12,Full History,Model-based
+KH00119890,Cluster_1,Emerging Digital Customers,12,Full History,Model-based
+KH00119925,Cluster_0,Emerging Digital Customers,12,Full History,Model-based
+KH00119965,Cluster_2,Financially Healthy & Highly Engaged,12,Full History,Model-based
+KH00119970,Cluster_3,Financially Stretched but Highly Engaged,12,Full History,Model-based
+KH00100090,Cluster_0,Emerging Digital Customers,2,Short History,Provisional
+KH00100165,Cluster_0,Emerging Digital Customers,2,Short History,Provisional
+KH00100205,Cluster_0,Emerging Digital Customers,1,Short History,Provisional
+KH00100365,Cluster_0,Emerging Digital Customers,1,Short History,Provisional
+KH00100650,Cluster_0,Emerging Digital Customers,1,Short History,Provisional
+KH00100685,Cluster_0,Emerging Digital Customers,1,Short History,Provisional
+KH00101610,Cluster_0,Emerging Digital Customers,1,Short History,Provisional
+KH00102005,Cluster_0,Emerging Digital Customers,1,Short History,Provisional
+KH00102085,Cluster_0,Emerging Digital Customers,1,Short History,Provisional
+KH00102490,Cluster_0,Emerging Digital Customers,1,Short History,Provisional
+KH00103685,Cluster_0,Emerging Digital Customers,1,Short History,Provisional
+KH00103930,Cluster_0,Essential-Spend-Focused Customers,1,Short History,Provisional
+KH00103965,Cluster_0,Emerging Digital Customers,1,Short History,Provisional
+KH00104330,Cluster_0,Emerging Digital Customers,1,Short History,Provisional
+KH00104490,Cluster_0,Emerging Digital Customers,1,Short History,Provisional
+KH00104610,Cluster_0,Emerging Digital Customers,1,Short History,Provisional
+KH00104685,Cluster_0,Emerging Digital Customers,1,Short History,Provisional
+KH00105210,Cluster_0,Emerging Digital Customers,1,Short History,Provisional
+KH00105325,Cluster_0,Emerging Digital Customers,1,Short History,Provisional
+KH00105450,Cluster_0,Emerging Digital Customers,1,Short History,Provisional
+KH00105565,Cluster_0,Emerging Digital Customers,1,Short History,Provisional
+KH00105770,Cluster_0,Emerging Digital Customers,1,Short History,Provisional
+KH00105965,Cluster_0,Emerging Digital Customers,1,Short History,Provisional
+KH00106085,Cluster_0,Emerging Digital Customers,1,Short History,Provisional
+KH00106130,Cluster_0,Emerging Digital Customers,1,Short History,Provisional
+KH00106205,Cluster_0,Emerging Digital Customers,1,Short History,Provisional
+KH00106210,Cluster_0,Emerging Digital Customers,1,Short History,Provisional
+KH00106285,Cluster_0,Emerging Digital Customers,1,Short History,Provisional
+KH00106330,Cluster_0,Emerging Digital Customers,1,Short History,Provisional
+KH00106370,Cluster_0,Emerging Digital Customers,1,Short History,Provisional
+KH00106490,Cluster_0,Essential-Spend-Focused Customers,1,Short History,Provisional
+KH00106890,Cluster_0,Emerging Digital Customers,1,Short History,Provisional
+KH00107370,Cluster_0,Emerging Digital Customers,1,Short History,Provisional
+KH00107810,Cluster_0,Emerging Digital Customers,1,Short History,Provisional
+KH00107890,Cluster_0,Emerging Digital Customers,1,Short History,Provisional
+KH00108770,Cluster_0,Emerging Digital Customers,1,Short History,Provisional
+KH00109050,Cluster_0,Emerging Digital Customers,1,Short History,Provisional
+KH00109485,Cluster_0,Emerging Digital Customers,1,Short History,Provisional
+KH00109725,Cluster_0,Emerging Digital Customers,1,Short History,Provisional
+KH00109810,Cluster_0,Emerging Digital Customers,1,Short History,Provisional
+KH00110245,Cluster_0,Emerging Digital Customers,1,Short History,Provisional
+KH00110285,Cluster_0,Emerging Digital Customers,2,Short History,Provisional
+KH00110650,Cluster_0,Emerging Digital Customers,1,Short History,Provisional
+KH00110730,Cluster_0,Emerging Digital Customers,1,Short History,Provisional
+KH00110765,Cluster_0,Emerging Digital Customers,1,Short History,Provisional
+KH00110925,Cluster_0,Emerging Digital Customers,1,Short History,Provisional
+KH00111085,Cluster_0,Emerging Digital Customers,1,Short History,Provisional
+KH00111210,Cluster_0,Emerging Digital Customers,1,Short History,Provisional
+KH00111365,Cluster_0,Emerging Digital Customers,2,Short History,Provisional
+KH00111450,Cluster_0,Emerging Digital Customers,1,Short History,Provisional
+KH00111690,Cluster_0,Emerging Digital Customers,1,Short History,Provisional
+KH00111885,Cluster_0,Emerging Digital Customers,1,Short History,Provisional
+KH00112045,Cluster_0,Emerging Digital Customers,1,Short History,Provisional
+KH00112370,Cluster_0,Emerging Digital Customers,1,Short History,Provisional
+KH00112725,Cluster_0,Emerging Digital Customers,1,Short History,Provisional
+KH00112730,Cluster_0,Emerging Digital Customers,1,Short History,Provisional
+KH00112965,Cluster_0,Emerging Digital Customers,1,Short History,Provisional
+KH00113050,Cluster_0,Emerging Digital Customers,1,Short History,Provisional
+KH00113530,Cluster_0,Emerging Digital Customers,1,Short History,Provisional
+KH00113685,Cluster_0,Emerging Digital Customers,1,Short History,Provisional
+KH00113690,Cluster_0,Emerging Digital Customers,1,Short History,Provisional
+KH00113925,Cluster_0,Emerging Digital Customers,1,Short History,Provisional
+KH00114210,Cluster_0,Emerging Digital Customers,1,Short History,Provisional
+KH00114285,Cluster_0,Emerging Digital Customers,1,Short History,Provisional
+KH00114605,Cluster_0,Emerging Digital Customers,1,Short History,Provisional
+KH00114725,Cluster_0,Emerging Digital Customers,2,Short History,Provisional
+KH00114810,Cluster_0,Emerging Digital Customers,1,Short History,Provisional
+KH00115370,Cluster_0,Emerging Digital Customers,1,Short History,Provisional
+KH00115605,Cluster_0,Emerging Digital Customers,1,Short History,Provisional
+KH00115645,Cluster_0,Emerging Digital Customers,1,Short History,Provisional
+KH00115765,Cluster_0,Emerging Digital Customers,1,Short History,Provisional
+KH00116125,Cluster_0,Emerging Digital Customers,1,Short History,Provisional
+KH00116370,Cluster_0,Emerging Digital Customers,1,Short History,Provisional
+KH00116445,Cluster_0,Emerging Digital Customers,1,Short History,Provisional
+KH00116485,Cluster_0,Low Engagement & Financially Vulnerable,1,Short History,Provisional
+KH00116605,Cluster_0,Financially Healthy but Disengaged,1,Short History,Provisional
+KH00116645,Cluster_0,Emerging Digital Customers,1,Short History,Provisional
+KH00116725,Cluster_0,Emerging Digital Customers,1,Short History,Provisional
+KH00116805,Cluster_0,Emerging Digital Customers,1,Short History,Provisional
+KH00117285,Cluster_0,Emerging Digital Customers,1,Short History,Provisional
+KH00117410,Cluster_0,Emerging Digital Customers,1,Short History,Provisional
+KH00117445,Cluster_0,Low Engagement & Financially Vulnerable,1,Short History,Provisional
+KH00117890,Cluster_0,Emerging Digital Customers,1,Short History,Provisional
+KH00118130,Cluster_0,Emerging Digital Customers,1,Short History,Provisional
+KH00118165,Cluster_0,Emerging Digital Customers,1,Short History,Provisional
+KH00118250,Cluster_0,Emerging Digital Customers,1,Short History,Provisional
+KH00118765,Cluster_0,Emerging Digital Customers,1,Short History,Provisional
+KH00118925,Cluster_0,Emerging Digital Customers,1,Short History,Provisional
+KH00119325,Cluster_0,Emerging Digital Customers,1,Short History,Provisional
+KH00119685,Cluster_0,Emerging Digital Customers,1,Short History,Provisional
+KH00119930,Cluster_0,Emerging Digital Customers,1,Short History,Provisional

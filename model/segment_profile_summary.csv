@@ -1,0 +1,7 @@
+segment_label,financial_health_score,engagement_score,essential_spend_ratio,online_spend_ratio,spend_to_income_ratio,credit_utilization_ratio,category_diversity,transaction_recency_days,spending_volatility,n_customers,pct_customers
+Financially Stretched but Highly Engaged,62.933,80.582,0.471,0.222,0.79,0.222,13.957,0.009,1.732,232,23.2
+Financially Healthy & Highly Engaged,69.867,80.418,0.471,0.219,0.567,0.148,13.954,0.006,1.615,208,20.8
+Financially Healthy but Disengaged,69.714,75.389,0.493,0.185,0.606,0.161,13.532,0.203,1.471,200,20.0
+Low Engagement & Financially Vulnerable,62.841,75.117,0.483,0.187,0.834,0.234,13.444,0.188,1.492,177,17.7
+Emerging Digital Customers,65.24,58.781,0.232,0.554,0.666,0.188,7.619,8.817,0.913,126,12.6
+Essential-Spend-Focused Customers,68.175,73.643,0.583,0.173,0.681,0.192,13.168,1.019,1.386,56,5.6
